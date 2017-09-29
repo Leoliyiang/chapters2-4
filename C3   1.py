@@ -1,0 +1,1 @@
+print("We like Python's turtles!"*1000)
