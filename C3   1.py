@@ -1,1 +1,2 @@
-print("We like Python's turtles!"*10)
+for i in range(1000):
+    print("We like Python's turtles!")
